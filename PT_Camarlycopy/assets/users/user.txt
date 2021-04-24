@@ -1,0 +1,10 @@
+Name: cloud
+Email: cloud@email.com
+Password: password
+Phone: 1234567890
+Gender: Male
+Country: Jamaica
+Membership: Bolt-Action - €99.99/Year
+username: cloud
+MarksmanID: eb6962a6c3727075
+

@@ -1,0 +1,9 @@
+Name: cloud
+Email: cloud
+Password: password
+Phone: 8764709618
+Gender: Genderless
+Country: nowhere
+Membership: Bolt-Action - €99.99/Year
+username: cloud
+MarksmanID: f5b8eb7eb6bf8a4c
